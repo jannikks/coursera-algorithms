@@ -1,4 +1,4 @@
-package xdone;
+package done;
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
